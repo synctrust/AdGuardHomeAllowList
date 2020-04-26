@@ -1,0 +1,5 @@
+#Allow List
+#Online Shopping
+@@||tmall.com^
+@@||taobao.com^
+@@||jd.com^
